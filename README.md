@@ -1,2 +1,2 @@
-# Sceduling_files
+# Scheduling_files
 Scheduling Files to read, perform transformations and saving it to MariaDB.
